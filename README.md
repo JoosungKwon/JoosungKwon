@@ -1,6 +1,6 @@
 <div align="center">
   
-  <a href="https://kwonjoosung.notion.site/b27016bcfcd041d697ceae4753caa601"><img src="https://img.shields.io/badge/resume-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+  <a href="https://www.notion.so/kwonjoosung/88a8705865b74ab589efc17c0755297a?pvs=4"><img src="https://img.shields.io/badge/portfolio-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
   
   ### Skills
   <img src="https://img.shields.io/badge/Java-26689A?style=flat-square&logo=OpenJDK&logoColor=white"/>
